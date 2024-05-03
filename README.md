@@ -12,6 +12,17 @@ Here are the steps to setup the build environment:
 4. Run `npm run dev`
 
 
+## Screenshots
+
+![Scheenshot 1](https://github.com/upendratomar01/react-date-range-picker/blob/main/public/ss1.png?raw=true "Optional Title")
+
+![Scheenshot 1](https://github.com/upendratomar01/react-date-range-picker/blob/main/public/ss2.png?raw=true "Optional Title")
+
+![Scheenshot 1](https://github.com/upendratomar01/react-date-range-picker/blob/main/public/ss3.png?raw=true "Optional Title")
+
+![Scheenshot 1](https://github.com/upendratomar01/react-date-range-picker/blob/main/public/ss4.png?raw=true "Optional Title")
+
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
