@@ -6,8 +6,8 @@ const App: React.FC = () => {
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const [weekEnds, setWeekEnds] = useState<string[]>([]);
+
   const handleResponseRange = (range: string[][]) => {
-    console.log("range==", range);
     const [selectedrange, weekEnds] = range;
     const [start, end] = selectedrange;
     setWeekEnds(weekEnds);
