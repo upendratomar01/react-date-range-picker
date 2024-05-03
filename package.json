@@ -1,7 +1,7 @@
 {
-  "name": "date-range-picker-react",
+  "name": "react-date-range-picker",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
