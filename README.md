@@ -1,4 +1,18 @@
-# React + TypeScript + Vite
+# Custom Date Range Picker in React
+
+
+
+## Setup
+
+Here are the steps to setup the build environment:
+
+1. Make sure you have the command line programs `git`, and `node` version 18 or greater
+2. Clone the application repository (this one): `git clone https://github.com/upendratomar01/react-date-range-picker.git`
+3. Run `npm install`
+4. Run `npm run dev`
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
